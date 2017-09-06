@@ -1,0 +1,2 @@
+# scala-igdb
+Scala Wrapper
